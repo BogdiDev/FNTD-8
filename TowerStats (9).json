@@ -42,46 +42,7 @@
         "Type": "Splash",
         "Image": "rbxassetid://132264920399282",
         "Rarity": "Secret",
-        "PlacePrice": 300,
-        "Max": 8,
-        "Offset": 0.3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
-            },
-            {
-                "Price": 500,
-                "Range": 12,
-                "Damage": 50,
-                "Cooldown": 1
-            },
-            {
-                "Price": 750,
-                "Range": 14,
-                "Damage": 60,
-                "Cooldown": 1
-            },
-            {
-                "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
-            }
-        ]
-    },
- "Banana Fredbear": {
-        "Type": "Single",
-        "Image": "rbxassetid://82849257313904",
-        "Rarity": "Secret",
-        "PlacePrice": 300,
+        "PlacePrice": 2500,
         "Max": 3,
         "Offset": 0.3,
         "hitboxOffset": {
@@ -92,36 +53,36 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 24,
+                "Damage": 850,
+                "Cooldown": 1.5
             },
             {
-                "Price": 500,
-                "Range": 12,
-                "Damage": 50,
-                "Cooldown": 1
+                "Price": 3000,
+                "Range": 26,
+                "Damage": 1000,
+                "Cooldown": 1.4
             },
             {
-                "Price": 750,
-                "Range": 14,
-                "Damage": 60,
-                "Cooldown": 1
+                "Price": 3500,
+                "Range": 28,
+                "Damage": 1050,
+                "Cooldown": 1.3
             },
             {
-                "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Price": 4000,
+                "Range": 30,
+                "Damage": 1150,
+                "Cooldown": 1.2
             }
         ]
     },
- "Miner Freddy": {
+ "Banana Fredbear": {
         "Type": "Single",
-        "Image": "rbxassetid://120396233563845",
-        "Rarity": "Epic",
-        "PlacePrice": 300,
-        "Max": 8,
+        "Image": "rbxassetid://82849257313904",
+        "Rarity": "Secret",
+        "PlacePrice": 800,
+        "Max": 3,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
@@ -131,26 +92,65 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
+                "Range": 24,
+                "Damage": 900,
                 "Cooldown": 1
             },
             {
-                "Price": 500,
-                "Range": 12,
-                "Damage": 50,
+                "Price": 900,
+                "Range": 26,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1000,
+                "Range": 28,
+                "Damage": 1100,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 1250,
+                "Range": 30,
+                "Damage": 1200,
+                "Cooldown": 0.8
+            }
+        ]
+    },
+ "Miner Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://120396233563845",
+        "Rarity": "Epic",
+        "PlacePrice": 600,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 250,
                 "Cooldown": 1
             },
             {
                 "Price": 750,
-                "Range": 14,
-                "Damage": 60,
-                "Cooldown": 1
+                "Range": 19,
+                "Damage": 300,
+                "Cooldown": 0.9
             },
             {
-                "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
+                "Price": 900,
+                "Range": 20,
+                "Damage": 350,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 1000,
+                "Range": 22,
+                "Damage": 400,
                 "Cooldown": 0.75
             }
         ]
@@ -159,8 +159,8 @@
         "Type": "Single",
         "Image": "rbxassetid://138313584827993",
         "Rarity": "Mythic",
-        "PlacePrice": 300,
-        "Max": 8,
+        "PlacePrice": 800,
+        "Max": 3,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
@@ -170,27 +170,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
-                "Cooldown": 1
+                "Range": 19,
+                "Damage": 350,
+                "Cooldown": 1.2
             },
             {
-                "Price": 500,
-                "Range": 12,
-                "Damage": 50,
-                "Cooldown": 1
+                "Price": 850,
+                "Range": 21,
+                "Damage": 450,
+                "Cooldown": 1.1
             },
             {
-                "Price": 750,
-                "Range": 14,
-                "Damage": 60,
+                "Price": 1000,
+                "Range": 22,
+                "Damage": 500,
                 "Cooldown": 1
             },
             {
                 "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
-                "Cooldown": 0.75
+                "Range": 23,
+                "Damage": 550,
+                "Cooldown": 0.9
             }
         ]
     },
@@ -198,8 +198,8 @@
         "Type": "Single",
         "Image": "rbxassetid://96162056909422",
         "Rarity": "Secret",
-        "PlacePrice": 300,
-        "Max": 8,
+        "PlacePrice": 7500,
+        "Max": 3,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
@@ -209,26 +209,26 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 40,
+                "Range": 22,
+                "Damage": 1450,
                 "Cooldown": 1
             },
             {
-                "Price": 500,
-                "Range": 12,
-                "Damage": 50,
+                "Price": 8500,
+                "Range": 24,
+                "Damage": 1650,
                 "Cooldown": 1
             },
             {
-                "Price": 750,
-                "Range": 14,
-                "Damage": 60,
+                "Price": 10000,
+                "Range": 26,
+                "Damage": 1850,
                 "Cooldown": 1
             },
             {
-                "Price": 1250,
-                "Range": 15,
-                "Damage": 60,
+                "Price": 11500,
+                "Range": 28,
+                "Damage": 2000,
                 "Cooldown": 0.75
             }
         ]

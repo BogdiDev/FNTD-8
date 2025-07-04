@@ -38,6 +38,45 @@
             }
         ]
     },
+"Red Shadow Bonnie": {
+        "Type": "AOE",
+        "Image": "rbxassetid://95623637221356",
+        "Rarity": "Nightmare",
+        "PlacePrice": 17500,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 200,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 20000,
+                "Range": 25,
+                "Damage": 250,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 22500,
+                "Range": 27,
+                "Damage": 300,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 25000,
+                "Range": 30,
+                "Damage": 350,
+                "Cooldown": 0.1
+            }
+        ]
+    },
  "Galaxy Bonnie": {
         "Type": "Splash",
         "Image": "rbxassetid://103643558536205",

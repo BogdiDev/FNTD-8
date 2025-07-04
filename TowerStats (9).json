@@ -1925,7 +1925,7 @@
         "Type": "Explosion",
         "Image": "rbxassetid://18326604996",
         "Rarity": "Secret",
-        "PlacePrice": 300,
+        "PlacePrice": 10000,
         "Max": 4,
         "hitboxOffset": {
             "X": 0,
@@ -1936,27 +1936,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 100,
-                "Cooldown": 4
+                "Range": 23,
+                "Damage": 1750,
+                "Cooldown": 2.5
             },
             {
-                "Price": 500,
-                "Range": 18,
-                "Damage": 150,
-                "Cooldown": 3.8
+                "Price": 10000,
+                "Range": 25,
+                "Damage": 2000,
+                "Cooldown": 2.5
             },
             {
-                "Price": 800,
-                "Range": 20,
-                "Damage": 200,
-                "Cooldown": 3.7
+                "Price": 10000,
+                "Range": 27,
+                "Damage": 2250,
+                "Cooldown": 2.5
             },
             {
-                "Price": 1200,
-                "Range": 22,
-                "Damage": 250,
-                "Cooldown": 3.5
+                "Price": 10000,
+                "Range": 27,
+                "Damage": 2500,
+                "Cooldown": 2.5
             }
         ]
     },

@@ -43,7 +43,7 @@
         "Image": "rbxassetid://117704042399154",
         "Rarity": "Infernal",
         "PlacePrice": 69,
-        "Max": 15,
+        "Max": 69,
         "Offset": 0.3,
         "hitboxOffset": {
             "X": 0,
@@ -53,15 +53,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 100,
-                "Damage": 10,
-                "Cooldown": 25
-            },
-            {
-                "Price": 69,
                 "Range": 69,
                 "Damage": 69,
-                "Cooldown": 60
+                "Cooldown": 69
             },
             {
                 "Price": 694,
@@ -70,11 +64,17 @@
                 "Cooldown": 694
             },
             {
-
                 "Price": 6942,
                 "Range": 6942,
                 "Damage": 6942,
                 "Cooldown": 6942
+            },
+            {
+
+                "Price": 69420,
+                "Range": 69420,
+                "Damage": 69420,
+                "Cooldown": 69420
             }
         ]
     },

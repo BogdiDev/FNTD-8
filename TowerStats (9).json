@@ -38,6 +38,46 @@
             }
         ]
     },
+ "Weird Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://117704042399154",
+        "Rarity": "Infernal",
+        "PlacePrice": 69,
+        "Max": 15,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 100,
+                "Damage": 10,
+                "Cooldown": 25
+            },
+            {
+                "Price": 69,
+                "Range": 69,
+                "Damage": 69,
+                "Cooldown": 60
+            },
+            {
+                "Price": 694,
+                "Range": 694,
+                "Damage": 694,
+                "Cooldown": 694
+            },
+            {
+
+                "Price": 6942,
+                "Range": 6942,
+                "Damage": 6942,
+                "Cooldown": 6942
+            }
+        ]
+    },
   "Skibidi Cupcake": {
         "Type": "Splash",
         "Image": "rbxassetid://135805675067984",

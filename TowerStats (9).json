@@ -38,6 +38,207 @@
             }
         ]
     },
+  "Skibidi Cupcake": {
+        "Type": "Splash",
+        "Image": "rbxassetid://135805675067984",
+        "Rarity": "Secret",
+        "PlacePrice": 12345,
+        "Max": 2,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 23,
+                "Damage": 1234,
+                "Cooldown": 2.3
+            },
+            {
+                "Price": 12345,
+                "Range": 34,
+                "Damage": 1234,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 12345,
+                "Range": 34,
+                "Damage": 2345,
+                "Cooldown": 2.1
+            },
+            {
+                "Price": 12345,
+                "Range": 23,
+                "Damage": 2345,
+                "Cooldown": 1.2
+            }
+        ]
+    },
+ "Skbidi Foxy": {
+        "Type": "Single",
+        "Image": "rbxassetid://79116391840268",
+        "Rarity": "Epic",
+        "PlacePrice": 600,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 350,
+                "Cooldown": 1
+            },
+            {
+                "Price": 700,
+                "Range": 20,
+                "Damage": 400,
+                "Cooldown": 1
+            },
+            {
+                "Price": 800,
+                "Range": 20,
+                "Damage": 450,
+                "Cooldown": 1
+            },
+            {
+                "Price": 900,
+                "Range": 20,
+                "Damage": 500,
+                "Cooldown": 1
+            }
+        ]
+    },
+  "Skibidi Chica": {
+        "Type": "Splash",
+        "Image": "rbxassetid://89409949098771",
+        "Rarity": "Mythic",
+        "PlacePrice": 800,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 400,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 900,
+                "Range": 22,
+                "Damage": 450,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 1000,
+                "Range": 24,
+                "Damage": 500,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 1250,
+                "Range": 25,
+                "Damage": 500,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+ "Skibidi Bonnie": {
+        "Type": "Single",
+        "Image": "rbxassetid://112243350874481",
+        "Rarity": "Secret",
+        "PlacePrice": 7500,
+        "Max": 3,
+        "Offset": 0.3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 2000,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 7500,
+                "Range": 30,
+                "Damage": 2250,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 7500,
+                "Range": 33,
+                "Damage": 2500,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 7500,
+                "Range": 35,
+                "Damage": 2500,
+                "Cooldown": 1.5
+            }
+        ]
+    },
+ "Skibidi Freddy": {
+        "Type": "Splash",
+        "Image": "rbxassetid://72733220454305",
+        "Rarity": "Nightmare",
+        "PlacePrice": 10000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 2500,
+                "Cooldown": 2
+            },
+            {
+                "Price": 12500,
+                "Range": 28,
+                "Damage": 3000,
+                "Cooldown": 1.8
+            },
+            {
+                "Price": 15000,
+                "Range": 30,
+                "Damage": 3250,
+                "Cooldown": 1.7
+            },
+            {
+                "Price": 20000,
+                "Range": 31,
+                "Damage": 3750,
+                "Cooldown": 1.6
+            },
+            {
+                "Price": 25000,
+                "Range": 35,
+                "Damage": 4000,
+                "Cooldown": 1.5
+            }
+        ]
+    },
 "Red Shadow Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://95623637221356",
